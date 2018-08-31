@@ -1,0 +1,3 @@
+Nemoguca misija je pred nama
+Majstore da li cemo uspeti da naucimo
+Ovo ludilo od clojure-a
