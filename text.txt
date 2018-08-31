@@ -1,3 +1,5 @@
 Nemoguca misija je pred nama
 Majstore da li cemo uspeti da naucimo
 Ovo ludilo od clojure-a
+Da li cemo uspeti ti i ja u tome
+Naravno da hocemo, jer smo najjaci
